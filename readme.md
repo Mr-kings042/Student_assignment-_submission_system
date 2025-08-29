@@ -68,7 +68,7 @@ services/
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repository-url> 
+git clone https://github.com/Mr-kings042/Student_assignment-_submission_system.git 
 cd Student_assignment_submission_system  
 ```
 
